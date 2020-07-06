@@ -1,0 +1,12 @@
+
+# Logs
+*.log
+
+# git rm -r --cached .idea/.DS_Store
+.DS_Store
+.idea/.DS_Store
+
+dist
+
+distdev
+/node_modules
